@@ -1,0 +1,21 @@
+{
+  "name": "Darlux Token List",
+  "timestamp": "2025-07-23T14:29:00+00:00",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "tokens": [
+    {
+      "chainId": 137,
+      "address": "0x78e47fc33b45f89d40cb2b9165b5bc5a88073227",
+      "name": "Darlux",
+      "symbol": "DRLX",
+      "decimals": 18,
+      "logoURI": "https://gateway.pinata.cloud/ipfs/bafkreigphljlnchx6vxtsfy5obzvho3o5lhqerr47iw733rt6foyuprwra"
+    }
+  ],
+  "keywords": ["darlux", "drlx", "mining", "meme", "staking", "nft","coin"],
+  "logoURI": "https://gateway.pinata.cloud/ipfs/bafkreigphljlnchx6vxtsfy5obzvho3o5lhqerr47iw733rt6foyuprwra"
+}
